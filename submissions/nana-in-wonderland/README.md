@@ -148,19 +148,19 @@ A cumulative revenue percentage was calculated to evaluate whether the dataset f
 
 ## City Performance Ranking
 
-The weighted City Score identifies the strongest city for future advertising investment by combining revenue, customer behaviour, satisfaction, and return rate.
+### The weighted City Score identifies the strongest city for future advertising investment by combining revenue, customer behaviour, satisfaction, and return rate.
 ---
 
 ## Customer Segmentation
 
-Customers were classified into four business segments to support personalized marketing and customer retention strategies.
+### Customers were classified into four business segments to support personalized marketing and customer retention strategies.
 ---
 
 ## Pareto Analysis
 
 The Pareto chart evaluates revenue concentration among customers.
 
-The analysis showed that the **top 20% of customers generated approximately 54.5% of total revenue**, indicating that the dataset does **not** follow the traditional 80/20 Pareto Principle.
+### The analysis showed that the **top 20% of customers generated approximately 54.5% of total revenue**, indicating that the dataset does **not** follow the traditional 80/20 Pareto Principle.
 ---
 
 # Key Business Insights
